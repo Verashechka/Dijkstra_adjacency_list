@@ -1,0 +1,12 @@
+﻿  unittest1.cpp
+e:\вера\учёба\аисд\4 семестр\dijkstra_adjacency_list\dijkstra_adjacency_list\list.h(146): warning C4018: >: несоответствие типов со знаком и без знака
+  e:\вера\учёба\аисд\4 семестр\dijkstra_adjacency_list\dijkstra_adjacency_list\list.h(143): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  e:\вера\учёба\аисд\4 семестр\dijkstra_adjacency_list\dijkstra_adjacency_list\dijkstra.h(145): note: выполняется компиляция ссылки на экземпляр шаблон функции "T list<T>::at(int)"
+          with
+          [
+              T=City_price
+          ]
+  e:\вера\учёба\аисд\4 семестр\dijkstra_adjacency_list\dijkstra_adjacency_list\list.h(46): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  e:\вера\учёба\аисд\4 семестр\dijkstra_adjacency_list\dijkstra_adjacency_list\dijkstra.h(23): note: выполняется компиляция ссылки на экземпляр шаблон функции "list<City_price>::list(void)"
+  e:\вера\учёба\аисд\4 семестр\dijkstra_adjacency_list\dijkstra_adjacency_list\dijkstra.h(23): note: выполняется компиляция ссылки на экземпляр шаблон класс "list<City_price>"
+  UnitTest1.vcxproj -> E:\Вера\учёба\АиСД\4 семестр\Dijkstra_adjacency_list\Debug\UnitTest1.dll
